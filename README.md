@@ -3,6 +3,7 @@ CommandControl is a plugin for Minecraft: Java Edition 1.20-1.21.x designed to h
 
 # Commands
 /blockcommand - The main plugin command. Add, remove, or list blocked commands.
+
 /blockc - Alias for /blockcommand.
 
 # Configuration
